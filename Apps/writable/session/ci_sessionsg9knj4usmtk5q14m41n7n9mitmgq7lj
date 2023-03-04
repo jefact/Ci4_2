@@ -1,0 +1,10 @@
+__ci_last_regenerate|i:1677741084;_ci_previous_url|s:40:"http://localhost:8080/index.php/register";error|s:269:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>Username sudah digunakan</li>
+					<li>Email sudah digunakan</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:3:{s:5:"error";s:3:"old";s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:5:{s:14:"csrf_test_name";s:32:"b75a20ed2a13d1342c32a16edd3e2326";s:8:"username";s:4:"User";s:5:"email";s:14:"user@gmail.com";s:9:"password1";s:5:"users";s:9:"password2";s:5:"users";}}_ci_validation_errors|a:2:{s:8:"username";s:24:"Username sudah digunakan";s:5:"email";s:21:"Email sudah digunakan";}

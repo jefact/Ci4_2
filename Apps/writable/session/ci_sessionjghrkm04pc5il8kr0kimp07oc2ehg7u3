@@ -1,0 +1,12 @@
+__ci_last_regenerate|i:1677738139;_ci_previous_url|s:40:"http://localhost:8080/index.php/register";error|s:339:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>Username harus di isi.</li>
+					<li>Email harus di isi.</li>
+					<li>Password harus di isi.</li>
+					<li>Password harus di isi.</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:3:{s:5:"error";s:3:"old";s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:5:{s:14:"csrf_test_name";s:32:"b75a20ed2a13d1342c32a16edd3e2326";s:8:"username";s:0:"";s:5:"email";s:0:"";s:9:"password1";s:0:"";s:9:"password2";s:0:"";}}_ci_validation_errors|a:4:{s:8:"username";s:22:"Username harus di isi.";s:5:"email";s:19:"Email harus di isi.";s:9:"password1";s:22:"Password harus di isi.";s:9:"password2";s:22:"Password harus di isi.";}
